@@ -1,6 +1,6 @@
 - Hi, I’m @Ridvess
 - I’m interested in frontend development and building interesting web apps.
-- I’m currently learning React.
+- I’m currently learning Angular.
 - You can reach me at my email: phillroman24@gmail.com
 
 <!---
